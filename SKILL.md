@@ -2,6 +2,8 @@
 name: jd-ai-short-drama-helper
 description: 京东AI短剧剧本助手 - 通过对话生成符合京东规范的短剧剧本、人物设定、场景设定和封面提示词
 agent_created: true
+author: honghaoxiang
+version: "1.0.0"
 ---
 
 # 京东AI短剧剧本助手
